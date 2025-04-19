@@ -102,3 +102,9 @@
 	</pluginRepositories>
 
 </project>
+<plugin>
+  <groupId>org.mule.tools.maven</groupId>
+  <artifactId>mule-maven-plugin</artifactId>
+  <version>3.7.1</version> <!-- or latest supported version -->
+</plugin>
+
